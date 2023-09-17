@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha Lista de desejos</string>
+    <string name="first_name">Nome</string>
+    <string name="last_name">Sobrenome</string>
+    <string name="whish_name">Curso desejado</string>
+    <string name="fone_nunber">Telefone</string>
+    <string name="action_clear">Limpar</string>
+    <string name="action_save">Salvar</string>
+    <string name="whish_course">Curso desejado</string>
+    <string name="model_ex">Entre os dados para cadastrar</string>
+    <string name="email">email</string>
+</resources>

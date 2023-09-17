@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Wish List</string>
+    <string name="model_ex">Enter data for save a whish course</string>
+    <string name="first_name" translatable="false">First name</string>
+    <string name="last_name" translatable="false">last name</string>
+    <string name="whish_course" translatable="false">Course wish</string>
+    <string name="fone_nunber" translatable="false">Fone number</string>
+    <string name="action_clear" translatable="false">Clear</string>
+    <string name="action_save" translatable="false">Save</string>
+    <string name="email">email</string>
+    <string name="whish_name">course_wish</string>
+</resources>
